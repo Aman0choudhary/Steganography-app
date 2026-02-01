@@ -1,4 +1,4 @@
-# Steganography-app
+# Github demo
 <br> 
 Requirements 
 <br>
